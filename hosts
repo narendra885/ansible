@@ -1,2 +1,2 @@
 [web]
-ansible@18.218.51.22
+ansible@18.218.51.22 -yes

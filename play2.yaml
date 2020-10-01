@@ -1,8 +1,8 @@
 ---
-- hosts: all
+- hosts: web
   become: yes
   tasks:
     - name: copying a file
       copy:
-              src: /home/ansible/play1.yaml 
+              src: /home/ansible/play123.yaml 
               dest: /home/ansible      

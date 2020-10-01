@@ -4,5 +4,5 @@
   tasks:
     - name: copying a file
       copy:
-              src: /home/ansible/play123.yaml 
+              src: /home/ubuntu/play123.yaml 
               dest: /home/ansible      
